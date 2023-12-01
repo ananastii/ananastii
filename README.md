@@ -1,12 +1,11 @@
 # Hi, I'm Anastasiia :fox_face:
-### Contact information 
+<img alt="Keyboard Typing Sounds from the Finnish Forest" src="./src/subheader.svg" />
 
 <a href="https://t.me/fat_polar_fox"><img height="30" width="30" src="https://cdn.simpleicons.org/telegram" /></a> &nbsp;
 <a href="mailto:lisitsinan@gmail.com"><img height="30" width="30" src="https://cdn.simpleicons.org/maildotru" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/anastasiia-lisitsyna/"><img height="30" width="30" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;
 ___
 ## About me
-<img alt="Keyboard Typing Sounds from the Finnish Forest" src="./src/subheader.svg" />
 
 - Junior Frontend Developer
 - started off by contributing to digital humanities web projects
