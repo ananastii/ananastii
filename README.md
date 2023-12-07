@@ -13,7 +13,7 @@ ___
 - currently working on BotKits, a chatbot constructor
 - like my code clean, concise, scalable & developer-friendly
   
-In my spare time I
+In my spare time I...
 - :bow_and_arrow: practice archery
 - :rowboat: go kayaking 
 - :sewing_needle: engage in handicrafts
